@@ -21,11 +21,10 @@ h1{
 
 h2{
     text-align:center;
-    text-align-last: right;
 }
 
 li{
-    text-align-last:right;
+    text-align:center;
 
 }
 .subjects{
